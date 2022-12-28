@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\bin\Debug\net7.0\Finwork1.exe
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\bin\Debug\net7.0\Finwork1.deps.json
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\bin\Debug\net7.0\Finwork1.runtimeconfig.json
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\bin\Debug\net7.0\Finwork1.dll
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\bin\Debug\net7.0\Finwork1.pdb
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.dll
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\refint\Finwork1.dll
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.pdb
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\Finwork1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Finalwork_GB\Finwork1\obj\Debug\net7.0\ref\Finwork1.dll
